@@ -33,7 +33,7 @@ mini-design-system/
 
 ```bash
 # Clone the repository
-git clone [YOUR_GITHUB_REPO_URL]
+git clone https://github.com/Iskren-Ivanov/mini-design-system
 cd mini-design-system
 
 # Install all dependencies
