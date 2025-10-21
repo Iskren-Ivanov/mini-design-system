@@ -1,0 +1,14 @@
+{
+  "name": "@mini-design-system/demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mini-design-system/ui": "file:../../packages/ui"
+  }
+}
