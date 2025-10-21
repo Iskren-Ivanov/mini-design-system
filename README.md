@@ -38,6 +38,9 @@ cd mini-design-system
 
 # Install all dependencies
 npm install
+
+# Build all packages
+npm run build
 ```
 
 ### Development
